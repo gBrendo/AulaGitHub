@@ -1,3 +1,3 @@
-# Este é um arquivo do curso Git e GitHub Devsuperior
+# Este é um arquivo do curso Git e GitHub DevSuperior
 
 Até a próxima!
